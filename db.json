@@ -1,0 +1,64 @@
+{
+    "books": [
+        {
+            "bookID": 1,
+            "title": "Learning Python",
+            "author": "Mark Lutz",
+            "publisher": "O'Reilly Media",
+            "publicationDate": "2013-06-12",
+            "price": "$40.00",
+            "rating": 4.7,
+            "genre": "Programming"
+        },
+        {
+            "bookID": 2,
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt and David Thomas",
+            "publisher": "Addison-Wesley",
+            "publicationDate": "1999-10-30",
+            "price": "$35.00",
+            "rating": 4.8,
+            "genre": "Programming"
+        },
+        {
+            "bookID": 3,
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "publisher": "Prentice Hall",
+            "publicationDate": "2008-08-01",
+            "price": "$45.00",
+            "rating": 4.6,
+            "genre": "Programming"
+        },
+        {
+            "bookID": 4,
+            "title": "JavaScript: The Good Parts",
+            "author": "Douglas Crockford",
+            "publisher": "O'Reilly Media",
+            "publicationDate": "2008-05-15",
+            "price": "$30.00",
+            "rating": 4.5,
+            "genre": "Programming"
+        },
+        {
+            "bookID": 5,
+            "title": "Eloquent JavaScript",
+            "author": "Marijn Haverbeke",
+            "publisher": "No Starch Press",
+            "publicationDate": "2018-12-04",
+            "price": "$35.00",
+            "rating": 4.7,
+            "genre": "Programming"
+        },
+        {
+            "bookID": 6,
+            "title": "You Don't Know JS",
+            "author": "Kyle Simpson",
+            "publisher": "O'Reilly Media",
+            "publicationDate": "2014-06-01",
+            "price": "$40.00",
+            "rating": 4.8,
+            "genre": "Programming"
+        }
+    ]
+}
